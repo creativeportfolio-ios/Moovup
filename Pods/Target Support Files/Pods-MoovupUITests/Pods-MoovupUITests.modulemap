@@ -1,0 +1,6 @@
+framework module Pods_MoovupUITests {
+  umbrella header "Pods-MoovupUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
